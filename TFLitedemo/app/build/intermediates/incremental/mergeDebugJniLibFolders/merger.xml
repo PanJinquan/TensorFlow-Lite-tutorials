@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="D:\tensorflow\Tensorflow_Lite_Demo\TFlitedemo\app\src\main\jnilibs"><file name="arm64-v8a/libtensorflowlite_jni.so" path="D:\tensorflow\Tensorflow_Lite_Demo\TFlitedemo\app\src\main\jnilibs\arm64-v8a\libtensorflowlite_jni.so"/></source></dataSet><dataSet config="debug"><source path="D:\tensorflow\Tensorflow_Lite_Demo\TFlitedemo\app\src\debug\jniLibs"/></dataSet></merger>

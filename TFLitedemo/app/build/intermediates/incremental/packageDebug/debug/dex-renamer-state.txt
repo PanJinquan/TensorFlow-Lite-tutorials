@@ -1,0 +1,4 @@
+#Thu Jan 03 17:01:47 CST 2019
+base.0=D\:\\tensorflow\\Tensorflow_Lite_Demo\\TFlitedemo\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
